@@ -1,0 +1,2 @@
+#ignore macOS file attributes file
+*.DS_Store
